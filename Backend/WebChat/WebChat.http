@@ -1,0 +1,6 @@
+@WebChat_HostAddress = http://localhost:5195
+
+GET {{WebChat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
